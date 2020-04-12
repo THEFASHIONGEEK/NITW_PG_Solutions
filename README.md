@@ -27,6 +27,21 @@ My SOLUTIONS FOR NITW Post Graduate Program in Artificial Intelligence and Machi
 
 <a id="2"></a>
 ## Assignments
+- [Assignment 1](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/assignment1)
+- [Assignment 2](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Assignment2)
+- [Assignment 3](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Assignment3)
+- [Assignment 4](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Assignment4)
+- [Assignment 5](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Assignment5)
+- [Assignment 6](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Assignment6)
+- [Assignment 7](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Assignment7)
+- [Assignment 8](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Assignment8)
+- [Assignment 9](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Assignment9)
+- [Assignment 10](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Assignment10)
+- [Assignment 11](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Assignment11)
+- [Assignment 12](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Assignment12)
+- [Assignment 13](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Assignment13)
+- [Assignment 14](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Assignment14)
+
 
 ### Deep Learning Assignments
 
@@ -34,3 +49,13 @@ My SOLUTIONS FOR NITW Post Graduate Program in Artificial Intelligence and Machi
 - [Assignment 2](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Deep_learning/Assignment2)
 - [Assignment 3](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Deep_learning/Assignment3)
 - [Assignment 4](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Assignments/Deep_learning/Assignment4)
+
+<br />
+
+<a id="3"></a>
+## Tests
+
+### Deep Learning Tests
+- [Mid Course Test](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Tests/Deep_learning/midcourse_test)
+- [End Course Test](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Tests/Deep_learning/Endcourse_test)
+
