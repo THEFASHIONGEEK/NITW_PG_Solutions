@@ -1,5 +1,5 @@
 # NITW_PG_Solutions
-My SOLUTIONS FOR NITW Post Graduate Program in Artificial Intelligence and Machine Learning
+My Solutions for [NITW Post Graduate Program in Artificial Intelligence and Machine Learning](https://www.edureka.co/post-graduate/machine-learning-and-ai)
 
 
 <a id="1"></a>
@@ -54,6 +54,13 @@ My SOLUTIONS FOR NITW Post Graduate Program in Artificial Intelligence and Machi
 
 <a id="3"></a>
 ## Tests
+- [Test 1]()
+- [Test 2]()
+- [Test 3]()
+- [Test 4]()
+- [Test 5](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Tests/Test5/q1)
+- [Test 6](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Tests/test6)
+- [Test 7](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Tests/test7)
 
 ### Deep Learning Tests
 - [Mid Course Test](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Tests/Deep_learning/midcourse_test)
