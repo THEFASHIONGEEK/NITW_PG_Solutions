@@ -8,12 +8,12 @@ My SOLUTIONS FOR NITW Post Graduate Program in Artificial Intelligence and Machi
 
 ### Mid Term project 1
 
-- [Bike sharing Demand](https://github.com/Tessellate-Imaging/monk_v1/tree/master/monk)
+- [Bike sharing Demand](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Mid-Program%20Project%201/BIKE-SHARING-DEMAND)
 
 
 ### Mid Term project 2
 
-- [Smart Cab](https://github.com/Tessellate-Imaging/monk_v1/tree/master/monk)
+- [Smart Cab](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Mid%20term%20project%202/Smart%20cab)
 
 
 ### Industry Graded Project
