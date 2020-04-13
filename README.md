@@ -54,10 +54,10 @@ My Solutions for [NITW Post Graduate Program in Artificial Intelligence and Mach
 
 <a id="3"></a>
 ## Tests
-- [Test 1]()
-- [Test 2]()
-- [Test 3]()
-- [Test 4]()
+- [Test 1](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Tests/Test1)
+- [Test 2](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Tests/Test2)
+- [Test 3](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Tests/Test3)
+- [Test 4](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Tests/Test4)
 - [Test 5](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Tests/Test5/q1)
 - [Test 6](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Tests/test6)
 - [Test 7](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Tests/test7)
