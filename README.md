@@ -66,3 +66,5 @@ My Solutions for [NITW Post Graduate Program in Artificial Intelligence and Mach
 - [Mid Course Test](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Tests/Deep_learning/midcourse_test)
 - [End Course Test](https://github.com/THEFASHIONGEEK/NITW_PG_Soltions/tree/master/Tests/Deep_learning/Endcourse_test)
 
+## Why this repository?
+- This is mostly for my personal learning and future references
