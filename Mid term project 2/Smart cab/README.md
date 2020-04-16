@@ -23,11 +23,11 @@ Company also wanted to allow users to book a cab by sending a free text SMS cont
 
 3.Book a cab for me from sector 48, my pick-up is from cyber city at 5 pm.So, the challenge for the company is to parse this free text and fetch three entities:
 
-●Pick up location
+ - Pick up location
 
-●Destination
+ - Destination
 
-●Time to pick up
+ - Time to pick up
 
 ## Process Flow/Overall solution:
 
