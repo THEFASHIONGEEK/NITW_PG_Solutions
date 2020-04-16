@@ -38,7 +38,7 @@
 #### 6. Can the entire environment be modeled before an Agent starts exploring? If yes, which Algorithm does this?
 - No, only the next state – action pair can be estimated
 - Yes, Monte Carlo &  SARSA 
-- **Yes, Monte Carlo & Q - Learning **
+- **Yes, Monte Carlo & Q - Learning**
 - Yes, Monte Carlo
 
 #### 7. In a Game with a grid size of 84 X 84 with close to 7 million possible states, if we want the Agent to learn the best policy through exploration, which of the algorithm listed below will be the best one to go ahead with?
