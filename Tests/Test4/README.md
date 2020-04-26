@@ -30,15 +30,14 @@ d.[ 1 , 0.5 , 0 ]
 - Eigenvectors having eigenvalues close to 0 should be considered in new feature space
 
 #### 3.Which of the two projection is the more appropriate?
-
-
+![Image](Images/3.PNG)
 - Projection 1
 - **Projection 2**
 - Both A and B
 - None of them
 
 #### 4.ABC is a multinational company which sells different articles at different discount rates. Following is a snapshot of time-series data for different articles, we have an everyday number of units sold at a specific discount rate 
-
+![Image](Images/4.PNG)
 Which Time-series is suitable for this problem?
 - Multivariate Time-series
 - Multiple Time Series
