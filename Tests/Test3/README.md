@@ -5,7 +5,7 @@
 #### 1.In a practical scenario, for which of the following cases Naive Bayes Algorithm performs well?  
 A.Discrete variables
 B.Continuous variables
--**A**
+- **A**
 - B
 - Both A and B
 - None of them
@@ -27,7 +27,7 @@ B. In boosting, we assign different weights based on the performance of the indi
 - None of these
 
 #### 4.With reference to scikit learn implementation of Random Forests, which of the following are hyperparameters? Select all that apply 
--**max_depth**
+- **max_depth**
 - **n_estimators**
 - **n_jobs**
 - Feature_importances_
