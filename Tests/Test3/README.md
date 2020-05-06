@@ -33,7 +33,7 @@ B. In boosting, we assign different weights based on the performance of the indi
 - Feature_importances_
 
 #### 5.Consider the data given below:
-
+![Image](Images/Capture.PNG)
 This data is about the past 6 matches played between India and England.
 You are asked to predict “Result” by building a decision tree using the Gini index. Which attribute will you choose as the root node?
 - Venue
